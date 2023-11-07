@@ -2,6 +2,7 @@
 Utilizes AI and drone capability to rescue children who have been illegaly trafficked and sold.
 
 # Logo
+<img src="image-url.jpg" width = "500" >
 
 
 # Data/Problem
