@@ -37,9 +37,9 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 
-Data Deck
+# Data Deck
 [Data_Deck](https://docs.google.com/presentation/d/1V7qAX-prGVKvm_ae6_dDfJEwgpFS4Ctx_0kMRUNZzBs/edit#slide=id.g278ff293417_0_0)
 
 
-Alexnet Filters 
+# Alexnet Filters 
 [Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=UsYfYT6UR3Nn)
