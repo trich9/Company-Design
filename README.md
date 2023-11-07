@@ -1,5 +1,5 @@
 # ChildRescueForce
-this is for the start of company design (name, logo, data/problem, data deck, image filters, alexnet)
+Utilizes AI and drone capability to rescue children who have been illegaly trafficked and sold.
 
 # Logo
 
@@ -8,7 +8,8 @@ this is for the start of company design (name, logo, data/problem, data deck, im
 According to the FBI, in 2022 there were 359,094 NCIC entries for missing children. The unfortunate part about this statistic is that many kids are not reported missing so this number, as bas as it is can be misleading. The NEMC which works with law enforecement to recover children who have been labeled as missing recovered 88% of those identified people. 
 
 
-Implementation and Strategy
+# Implementation and Strategy
+
 Using drones to prevent child trafficking is a complex and multifaceted task that requires a combination of technology, collaboration, and strategic planning. Here's a strategy to effectively utilize drones in this important mission:
 
 Data and Intelligence Gathering:
