@@ -46,6 +46,12 @@ Train law enforcement and task force members to act swiftly and effectively in c
 # Alexnet Filters 
 [Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 
+# Feature Map
+[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)
+
+<img width="1191" alt="Screen Shot 2023-11-12 at 8 50 29 PM" src="https://github.com/trich9/Company-Design/assets/143112521/baaf59f8-a379-483e-bdd6-95d1d3c7f202">
+
+
 # WANDB
 <img width="903" alt="Screen Shot 2023-11-12 at 8 39 14 PM" src="https://github.com/trich9/Company-Design/assets/143112521/8f481160-59be-4075-9fdb-946e1edb4215">
 
