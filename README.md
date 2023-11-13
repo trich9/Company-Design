@@ -47,4 +47,5 @@ Train law enforcement and task force members to act swiftly and effectively in c
 [Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 
 # WANDB
-<img width="898" alt="Screen Shot 2023-11-12 at 8 23 30 PM" src="https://github.com/trich9/Company-Design/assets/143112521/78f0ba80-3d3b-42f0-9944-08d309d69b3d">
+<img width="897" alt="Screen Shot 2023-11-12 at 8 30 13 PM" src="https://github.com/trich9/Company-Design/assets/143112521/566033d5-7211-438d-bf68-d0ff5c6899bb">
+
