@@ -2,7 +2,8 @@
 Utilizes AI and drone capability to rescue children who have been illegaly trafficked and sold.
 
 # Logo
-<img src="image-url.jpg" width = "500" >
+<img width="254" alt="Screen Shot 2023-10-26 at 4 05 29 PM (1)" src="https://github.com/trich9/Company-Design/assets/143112521/9a73451e-8a18-4702-8194-c5f2bd0db50b">
+
 
 
 # Data/Problem
@@ -43,4 +44,7 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 # Alexnet Filters 
-[Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=UsYfYT6UR3Nn)
+[Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
+
+# WANDB
+<img width="898" alt="Screen Shot 2023-11-12 at 8 23 30 PM" src="https://github.com/trich9/Company-Design/assets/143112521/78f0ba80-3d3b-42f0-9944-08d309d69b3d">
