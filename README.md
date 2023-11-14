@@ -14,7 +14,7 @@ According to the FBI, in 2022 there were 359,094 NCIC entries for missing childr
 
 Using drones to prevent child trafficking is a complex and multifaceted task that requires a combination of technology, collaboration, and strategic planning. Here's a strategy to effectively utilize drones in this important mission:
 
-  Data and Intelligence Gathering:*
+  Data and Intelligence Gathering:
 
 - Collect and analyze relevant data to identify high-risk areas and potential trafficking routes.
 Collaborate with intelligence agencies, NGOs, and local communities to gather actionable information on known or suspected traffickers.
@@ -23,7 +23,7 @@ Drone Technology Integration:
 - Acquire and deploy drones equipped with advanced technology such as high-resolution cameras, thermal imaging, facial recognition, and GPS tracking.
 Ensure that drones have the capability to operate in various weather conditions and remote areas.
 
-Drone Surveillance and Monitoring:*
+Drone Surveillance and Monitoring:
 
 - Conduct routine aerial surveillance in known or high-risk areas where child trafficking is prevalent.
 Monitor border crossings, transportation hubs, and remote border regions using drones to identify suspicious activities.
