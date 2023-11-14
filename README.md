@@ -14,7 +14,7 @@ According to the FBI, in 2022 there were 359,094 NCIC entries for missing childr
 
 Using drones to prevent child trafficking is a complex and multifaceted task that requires a combination of technology, collaboration, and strategic planning. Here's a strategy to effectively utilize drones in this important mission:
 
-Data and Intelligence Gathering:
+*Subtitle: Data and Intelligence Gathering:*
 
 -Collect and analyze relevant data to identify high-risk areas and potential trafficking routes.
 Collaborate with intelligence agencies, NGOs, and local communities to gather actionable information on known or suspected traffickers.
