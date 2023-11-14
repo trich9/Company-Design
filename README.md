@@ -48,6 +48,7 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 # Alexnet Filters 
+- AlexNet is a pioneering convolutional neural network (CNN) architecture that significantly advanced the field of computer vision. It consists of eight layers, including five convolutional layers followed by max-pooling layers and then three fully connected layers. AlexNet predominantly used the Rectified Linear Unit (ReLU) activation function, which helped alleviate the vanishing gradient problem and speed up training. AlexNet's successful implementation was greatly aided by the utilization of GPUs, specifically designed to handle the parallel computations required by neural networks, making training faster compared to traditional CPUs
 [Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 
 # Feature Map
