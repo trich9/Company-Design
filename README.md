@@ -23,7 +23,7 @@ Drone Technology Integration:
 - Acquire and deploy drones equipped with advanced technology such as high-resolution cameras, thermal imaging, facial recognition, and GPS tracking.
 Ensure that drones have the capability to operate in various weather conditions and remote areas.
 
-  Drone Surveillance and Monitoring:*
+Drone Surveillance and Monitoring:*
 
 - Conduct routine aerial surveillance in known or high-risk areas where child trafficking is prevalent.
 Monitor border crossings, transportation hubs, and remote border regions using drones to identify suspicious activities.
