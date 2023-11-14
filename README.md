@@ -40,6 +40,10 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 # Data Deck
+<img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://github.com/trich9/Company-Design/assets/143112521/531f0f1d-51a4-40fe-9e1c-d36ce7482769"> <img width="654" alt="Screen Shot 2023-11-14 at 1 17 35 PM" src="https://github.com/trich9/Company-Design/assets/143112521/6df2916c-91c7-4862-bff2-84d6275971ea"> <img width="357" alt="Screen Shot 2023-11-14 at 1 17 19 PM" src="https://github.com/trich9/Company-Design/assets/143112521/315e67e3-ca5a-43fa-90e3-9813f537102f">
+
+
+
 [Data_Deck](https://docs.google.com/presentation/d/1V7qAX-prGVKvm_ae6_dDfJEwgpFS4Ctx_0kMRUNZzBs/edit#slide=id.g278ff293417_0_0)
 
 
