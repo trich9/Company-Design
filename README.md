@@ -7,7 +7,7 @@ Utilizes AI and drone capability to rescue children who have been illegaly traff
 
 
 # Data/Problem
-According to the FBI, in 2022 there were 359,094 NCIC entries for missing children. The unfortunate part about this statistic is that many kids are not reported missing so this number, as bas as it is can be misleading. The NEMC which works with law enforecement to recover children who have been labeled as missing recovered 88% of those identified people. 
+According to the FBI, in 2022 there were 359,094 NCIC entries for missing children. The unfortunate part about this statistic is that many kids are not reported missing so this number, as bad as it is can be misleading. The NEMC which works with law enforecement to recover children who have been labeled as missing recovered 88% of those identified people. 
 
 
 # Implementation and Strategy
