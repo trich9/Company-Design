@@ -78,4 +78,7 @@ Train law enforcement and task force members to act swiftly and effectively in c
   
 <img width="903" alt="Screen Shot 2023-11-12 at 8 39 14 PM" src="https://github.com/trich9/Company-Design/assets/143112521/8f481160-59be-4075-9fdb-946e1edb4215">
 
+# Contact me at 
+trich2023@fau.edu
+
 
