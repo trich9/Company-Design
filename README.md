@@ -55,6 +55,13 @@ Train law enforcement and task force members to act swiftly and effectively in c
 [Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 
 # Feature Map
+
+- A feature map is a 3-dimensional representation of learned features within a convolutional neural network (CNN). In the context of CNNs used in image processing, a feature map refers to the output obtained after applying a filter (also called a kernel) to an input image.
+
+- When an image passes through a convolutional layer in a CNN, the filter scans across the image, performing a mathematical operation (convolution) between the filter and the portions of the image it covers. This operation extracts specific patterns or features, such as edges, textures, or shapes, from the input image.
+
+- Each filter in a convolutional layer generates its own feature map. The feature map highlights areas in the input image where the filter detects relevant features based on its learned parameters. As a result, multiple filters create multiple feature maps, each capturing different aspects or representations of the input data.
+  
 [Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)
 
 <img width="1191" alt="Screen Shot 2023-11-12 at 8 50 29 PM" src="https://github.com/trich9/Company-Design/assets/143112521/baaf59f8-a379-483e-bdd6-95d1d3c7f202">
