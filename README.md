@@ -47,6 +47,7 @@ Train law enforcement and task force members to act swiftly and effectively in c
 [Data_Deck](https://docs.google.com/presentation/d/1V7qAX-prGVKvm_ae6_dDfJEwgpFS4Ctx_0kMRUNZzBs/edit#slide=id.g278ff293417_0_0)
 
 # Pose 
+[Pose Images](https://colab.research.google.com/drive/1EPTcfJWljZ_7nDF2lCzR7BaTTly3vEjq?usp=sharing)
 
 # Alexnet Filters 
 <img width="1401" alt="Screen Shot 2023-11-14 at 3 40 21 PM" src="https://github.com/trich9/Company-Design/assets/143112521/e307d3d0-96bf-4e3f-9f3d-829446212bf8">
