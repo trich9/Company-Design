@@ -61,6 +61,12 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 # WANDB
+- Weights and biases are fundamental components used in artificial neural networks, a core concept in machine learning.
+
+- Weights: In a neural network, weights represent the strength of connections between neurons. Each connection between nodes in different layers of a neural network has a weight associated with it. These weights are adjusted during the training process to enable the network to learn and make accurate predictions.
+
+- Biases: Biases are additional parameters in neural networks that allow the model to fit better to the given data. They provide flexibility to the model by allowing it to represent patterns that don't necessarily pass through the origin (0,0). Each neuron typically has its own bias term, which helps the model in learning and making predictions accurately.
+  
 <img width="903" alt="Screen Shot 2023-11-12 at 8 39 14 PM" src="https://github.com/trich9/Company-Design/assets/143112521/8f481160-59be-4075-9fdb-946e1edb4215">
 
 
