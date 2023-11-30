@@ -40,6 +40,15 @@ Train law enforcement and task force members to act swiftly and effectively in c
 
 
 # Data Deck
+The data deck we have here is useful for many reasons but here are a few I would like to highlight 
+- Training Machine Learning Models: Machine learning models learn patterns and make predictions based on the data they are trained on. A high-quality and diverse dataset is fundamental for training accurate and robust models
+
+- Quality of Predictions: The quality and representativeness of the dataset directly impact the quality of predictions made by machine learning models. A comprehensive dataset helps the model generalize well to new, unseen data
+  
+- Iterative Improvement: Iterative model improvement often involves refining datasets. By collecting additional data, removing noisy or irrelevant samples, or augmenting the dataset, the model's performance can be enhanced
+  
+- In summary, a high-quality, well-curated dataset is essential for training accurate, unbiased, and reliable machine learning models. It serves as the foundation upon which models learn and make predictions, influencing their performance and real-world applicability
+  
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://github.com/trich9/Company-Design/assets/143112521/531f0f1d-51a4-40fe-9e1c-d36ce7482769"> <img width="654" alt="Screen Shot 2023-11-14 at 1 17 35 PM" src="https://github.com/trich9/Company-Design/assets/143112521/6df2916c-91c7-4862-bff2-84d6275971ea"> <img width="357" alt="Screen Shot 2023-11-14 at 1 17 19 PM" src="https://github.com/trich9/Company-Design/assets/143112521/315e67e3-ca5a-43fa-90e3-9813f537102f">
 
 
