@@ -70,11 +70,11 @@ The Pose Machine is a deep learning-based architecture designed for human pose e
 [Pose Images](https://colab.research.google.com/drive/11gPxH3PNabN13PETE8x3EM4neo9jTzf4#scrollTo=9B57XS0NZPIy)
 
 # Alexnet Filters 
+- AlexNet is a pioneering convolutional neural network (CNN) architecture that significantly advanced the field of computer vision. It consists of eight layers, including five convolutional layers followed by max-pooling layers and then three fully connected layers. AlexNet predominantly used the Rectified Linear Unit (ReLU) activation function, which helped alleviate the vanishing gradient problem and speed up training. AlexNet's successful implementation was greatly aided by the utilization of GPUs, specifically designed to handle the parallel computations required by neural networks, making training faster compared to traditional CPUs
+  
 <img width="1401" alt="Screen Shot 2023-11-14 at 3 40 21 PM" src="https://github.com/trich9/Company-Design/assets/143112521/e307d3d0-96bf-4e3f-9f3d-829446212bf8">
 
-- AlexNet is a pioneering convolutional neural network (CNN) architecture that significantly advanced the field of computer vision. It consists of eight layers, including five convolutional layers followed by max-pooling layers and then three fully connected layers. AlexNet predominantly used the Rectified Linear Unit (ReLU) activation function, which helped alleviate the vanishing gradient problem and speed up training. AlexNet's successful implementation was greatly aided by the utilization of GPUs, specifically designed to handle the parallel computations required by neural networks, making training faster compared to traditional CPUs
-
-[Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
+[Alexnet Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 
 # Feature Map
 
