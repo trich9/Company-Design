@@ -1,9 +1,7 @@
 # ChildRescueForce
-Utilizes AI and drone capability to rescue children who have been illegaly trafficked and sold.
-
-# Logo
 <img width="254" alt="Screen Shot 2023-10-26 at 4 05 29 PM (1)" src="https://github.com/trich9/Company-Design/assets/143112521/9a73451e-8a18-4702-8194-c5f2bd0db50b">
 
+Utilizes AI and drone capability to rescue children who have been illegaly trafficked and sold.
 
 
 # Data/Problem
