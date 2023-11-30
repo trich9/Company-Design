@@ -47,6 +47,24 @@ Train law enforcement and task force members to act swiftly and effectively in c
 [Data_Deck](https://docs.google.com/presentation/d/1V7qAX-prGVKvm_ae6_dDfJEwgpFS4Ctx_0kMRUNZzBs/edit#slide=id.g278ff293417_0_0)
 
 # Pose 
+
+The Pose Machine is a deep learning-based architecture designed for human pose estimation in images. It operates by detecting and locating key points or joints on a person's body, creating an estimation of the body's pose.
+
+
+- Deep Learning Architecture: Pose Machine typically employs a deep neural network, often a Convolutional Neural Network (CNN), for the task of pose estimation.
+
+- Multi-Stage Architecture: The Pose Machine architecture typically consists of multiple stages or modules that progressively refine the estimation of human joint locations.
+
+- Hierarchical Structure: Each stage in the Pose Machine model refines the predictions made by the previous stage. It gradually improves the accuracy of keypoint localization by refining the estimation iteratively.
+
+- Heatmap Representation: Usually, Pose Machine models predict a heatmap representation for each key joint in the body. These heatmaps indicate the likelihood or confidence of the presence of a joint at various locations in the image.
+
+- Iterative Refinement: The model iteratively improves the accuracy of joint localization by integrating context and information from previous stages, leading to more precise pose estimation.
+
+- Application: Pose Machines are widely used in various applications such as action recognition, sports analytics, augmented reality, fitness tracking, human-computer interaction, and more, where understanding human poses is crucial.
+
+- Overall, Pose Machine models are effective in estimating human poses from images, providing valuable information about the body's positioning and movement, which finds applications across several domains.
+  
 <img width="368" alt="Screen Shot 2023-11-30 at 4 10 01 PM" src="https://github.com/trich9/Company-Design/assets/143112521/1eaa7721-9a18-478e-a2f0-569bdb4e5fa9">
 
 [Pose Images](https://colab.research.google.com/drive/11gPxH3PNabN13PETE8x3EM4neo9jTzf4#scrollTo=9B57XS0NZPIy)
