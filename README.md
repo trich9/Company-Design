@@ -34,7 +34,11 @@ Rapid Response:
 - Develop protocols for immediate response when suspicious activities are identified.
 Train law enforcement and task force members to act swiftly and effectively in coordination with drone data.
 
+Integration with Law Enforcement 
 
+- ChildRescueForce will partner with the likes of the FBI and nearby police departments in order to gain more information and availability to the traffickers and hostage locations.
+
+- Using our drones and cameras we will be able to identigy these people and locations without putting anyone in danger and it will allow us to gather more information and how to apprehend the traffickers and rescue the children. 
 
 
 # Data Deck
